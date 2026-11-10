@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Magazine_RPO2/Magazine_RPO2.vcxproj" />
+</Solution>
