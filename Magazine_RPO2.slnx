@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Magazine_RPO2/Magazine_RPO2.vcxproj" />
+  <Project Path="Magazine_RPO2/Magazine_RPO2.vcxproj" Id="21c03c2d-cab5-46c2-ae63-156a5b5bcdad" />
 </Solution>
