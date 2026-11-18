@@ -11,9 +11,16 @@ extern double* priceArr;
 
 extern bool isStorageCreated;
 
-void CreateStorage(int mode = 0);
-void ShowStorage();
+extern size_t maxStorageSize;
+extern size_t currentStorageSize;
 
+
+
+void CreateStorage(int mode = 0);
+void ShowStorage(int mode = 0);
+void AddProduct();
+void removeProduct();
+void changePrice();
 
 
 

@@ -20,6 +20,6 @@ inline void Err()
 	Sleep(1500);
 }
 
-
+bool isNumber(const std::wstring& str);
 
 #endif // !_SERVISEFUNCTION_HPP_

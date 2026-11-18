@@ -1,7 +1,7 @@
 #include <io.h> // _setmode, _fileno
 #include <fcntl.h> // _O_U16TEXT
 #include "autorization.hpp"
-#include "storage.hpp"
+
 /*
 		std::cout		std::wcout
 		char			wchar_t

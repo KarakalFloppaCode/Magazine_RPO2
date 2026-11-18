@@ -3,6 +3,7 @@
 
 #include "serviseFunction.hpp"
 #include "account.hpp"
+#include "storage.hpp"
 
 void Start();
 bool Login();
